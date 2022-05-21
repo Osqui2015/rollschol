@@ -3,12 +3,16 @@ git status --- verifica si esta subido
 git add .  ------ apunto de agregar
 git remote add origin https://github.com/Osqui2015/rollschol.git -- indica el origen a donde copiar unica vez
 git commit -m "first commit" ---- verifica un comentario anterior
-git push -u origin master ----
+git push -u origin master ---- unica vez para agregar
 git branch -M main	----	
 
 
 actualizar:
 
-git
+git add .
+git status
+git commit -m "first commit"
+git push
+
 
 
