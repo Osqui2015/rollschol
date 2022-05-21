@@ -1,0 +1,2 @@
+git ini -- unica vez por cada repositorio
+git status --- verifica si esta subido
